@@ -5,6 +5,8 @@ package controlVersiones;
  * @since 24/05/2021
  * @version Version 1,2021
  */
+
+//Generando conflicto
 public class Empleado {
 
 	private String nombre;
@@ -58,7 +60,7 @@ public double getSalario() {
 public void setSalario(double salario) {
 	this.salario = salario;
 }
-//Este método hace la suma del salario base con la subida de salario introducida como variable de entrada, no devuelve ningún valor
+//Este mÃ©todo hace la suma del salario base con la subida de salario introducida como variable de entrada, no devuelve ningÃºn valor
 /**
  * @param subida
  */
